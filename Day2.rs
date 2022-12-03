@@ -71,7 +71,7 @@ fn part_one(){
             total_score += round_draw + scissors_throw;
         }
     }
-    print!("Part 1: {} ", total_score);
+    print!("Part One: {} \n", total_score);
     
 }
 
@@ -139,6 +139,6 @@ fn part_two(){
             total_score += round_win + rock_throw;
         }
     }
-    print!("Part two: {} ", total_score);
+    print!("Part Two: {} \n", total_score);
 
 }
