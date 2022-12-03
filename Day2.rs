@@ -19,7 +19,7 @@ fn part_one(){
     let scissors_throw = 3;
 
     // A = Rock, B = Paper, C = Scissors
-    // Y = Paper, X = Rock, Z = Scissors
+    // X = Rock, Y = Paper, Z = Scissors
 
     let player_rock = "A";
     let player_paper = "B";
